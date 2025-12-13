@@ -3,6 +3,13 @@
 
 ![App Logo](logo.png)
 
+
+## 🏆 Holiday IQ Race is live!
+### Only the smartest reach the top 🎄
+### Climb the leaderboard before year end.
+### 👉 https://apps.apple.com/us/app/id6756260857?eventid=6756467062
+
+
 ## 🎮 About the Game
 **Bee Cross – 67 Number Puzzle** is a fresh and clever logic-puzzle game where you guide a little bee across a **10×10 number maze** to reach Home safely.
 
