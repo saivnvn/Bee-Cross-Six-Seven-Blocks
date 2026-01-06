@@ -1,7 +1,7 @@
-# 🐝 Bee Cross – 67 Number Puzzle
+# 🐝 Bee Cross – Six Seven Blocks
 ### Sum to Zero – Math Puzzle Game • Clever • Strategic • Fresh Number Maze Logic
 
-![App Logo](logo.png)
+![App Logo](512.jpg)
 
 
 ## 🏆 Holiday IQ Race is live!
@@ -34,7 +34,7 @@ And that’s only the beginning—many more surprises await you.
 
 | | | |
 |---|---|---|
-| ![](anh1.png) | ![](anh2.png) | ![](anh3.png) |
+| ![](anh4.png) | ![](anh5.png) | ![](anh6.png) |
 
 ---
 
